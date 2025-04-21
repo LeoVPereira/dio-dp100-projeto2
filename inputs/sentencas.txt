@@ -1,0 +1,3 @@
+Este documento fala sobre Inteligência Artificial.
+IA é o campo da ciência que estuda como criar máquinas inteligentes.
+Ela envolve aprendizado de máquina, redes neurais e processamento de linguagem natural.
